@@ -1,7 +1,7 @@
 {
   "name": "Close Right Tabs",
   "description": "Close all right tabs.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest_version": 3,
   "permissions": [],
   "background": {
